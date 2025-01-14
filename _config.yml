@@ -1,16 +1,17 @@
 # Site Information
-title: Portfolio of Sanchit Khope                       # The title of your site
+title: Portfolio of Sanchit Khope    # The title of your site
 subtitle: "Sharing my projects"      # Subtitle displayed below the title
 description: >                       # A short description of your site
   Welcome to my portfolio where I share my ideas and projects.
 
 # Author Information
-name: Sanchit Khope                      # Your name
-email: sanchitkhope09@gmail.com         # Your email address (optional)
-  github: your-github-username       # GitHub username   # LinkedIn username (optional)
+name: Sanchit Khope                  # Your name
+email: sanchitkhope09@gmail.com      # Your email address (optional)
+github: your-github-username         # GitHub username
+linkedin: your-linkedin-username     # LinkedIn username (optional)
 
 # Theme Settings
-theme_mode: dark                  # Options: dark, light, auto
+theme_mode: dark                     # Options: dark, light, auto
 google_analytics: UA-XXXXXXXXX-X     # Google Analytics tracking ID (optional)
 locale: en                           # Site language, e.g., en, fr, es
 
@@ -38,5 +39,3 @@ exclude: ["README.md"]              # Exclude files from the site build
 # URL Settings
 baseurl: ""                         # Leave blank if deploying to root
 permalink: /:year/:month/:day/:title/ # URL format for blog posts
-
-
